@@ -1,0 +1,18 @@
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap:10px;
+	flex-direction: column;
+	height: 100vh;
+}
+
+
+
+#display_image{
+  width: 500px;
+  height: auto;
+  border: 1px solid black;
+  position: absolute;
+  background-size: cover;
+}
